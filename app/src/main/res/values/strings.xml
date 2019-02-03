@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">RSSreader</string>
+    <string name="provides">Provider</string>
+    <string name="article_title">Maurizio Sarri: Chelsea manager takes blame for Bournemouth defeat</string>
+    <string name="publish">published at 2/2/2019</string>
+    <string name="description">description</string>
+    <string name="fullArticle">Read full article ..</string>
+    <string name="author">Author</string>
+    <string name="empty">No sources added ,, GO AND ADD SOME !!</string>
+    <string-array name="providers">
+        <item>abc-news</item>
+        <item>al-jazeera-english</item>
+        <item>ars-technica</item>
+        <item>bbc-news</item>
+        <item>bbc-sport</item>
+        <item>bleacher-report</item>
+        <item>buzzfeed</item>
+        <item>cbc-news</item>
+        <item>cbs-news</item>
+        <item>cnn</item>
+        <item>crypto-coins-news</item>
+        <item>daily-mail</item>
+        <item>engadget</item>
+        <item>financial-post</item>
+        <item>fox-sports</item>
+        <item>fox-news</item>
+        <item>google-news</item>
+        <item>hacker-news</item>
+        <item>independent</item>
+        <item>national-geographic</item>
+        <item>techcrunch</item>
+        <item>the-next-web</item>
+        <item>the-washington-times</item>
+    </string-array>
+</resources>
